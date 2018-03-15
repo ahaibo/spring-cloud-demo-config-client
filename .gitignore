@@ -1,0 +1,6 @@
+/target/
+/.idea/
+/.git/
+/.mnv/
+mvvw*
+*.iml
